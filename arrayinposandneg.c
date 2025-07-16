@@ -12,12 +12,10 @@
             if(arr[i]> 0)
         {  printf("%d \n",arr[i]);
         }
-        
+       
         } 
         printf("\n");
 
         return 0;
-
-
-
  }
+//it's my first time code of by my self.
