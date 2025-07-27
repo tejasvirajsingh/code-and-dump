@@ -23,6 +23,7 @@ int binarySearch(int array[], int x, int low, int high)
 int main( )
 {
 	int array[] = { 2, 4, 5, 7, 14, 17, 19, 22, 54, 65, 55,99,0 };
+	printf("Tejasvi");
 	int n = sizeof(array) / sizeof(array[0]);
 	int x = 99;
 	int result = binarySearch(array, x, 0, n - 1);
